@@ -28,7 +28,6 @@ O template está disponível na seguinte URL:
 
 Agora navegue até a pasta criada, abra no Visual Studio Code e por último abra o arquivo `index.js`. Lembre-se de executar o comando `yarn` no seu terminal para instalar todas as dependências e você terá o seguinte código:
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/db31d611-26f4-41a4-95be-631f56cc8983/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/db31d611-26f4-41a4-95be-631f56cc8983/Untitled.png)
 
 ## Middlewares da aplicação
 
